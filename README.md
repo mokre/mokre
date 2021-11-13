@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mokre aka. Moritz 
 - 🎓 IT-Student @university-bonn
-- 💻 Into Java, Python and C, currently learning Kotlin
+- 💻 Into Java, Python, C++ and C
 - 🌎 Travelenthusiast
 - ⏳ Master Procrastinator
 - 📡 https://www.moritzkress.de
